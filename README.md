@@ -1,5 +1,7 @@
-Synaptic
+Lemonade Synaptic
 ========
+
+Basically synaptic, but I changed the logo to match my distro.
 
 Synaptic is a graphical package management tool based on GTK+ and APT.
 Synaptic enables you to install, upgrade and remove software packages in
